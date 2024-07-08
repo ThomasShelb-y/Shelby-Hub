@@ -1,0 +1,9 @@
+working directory -> stagging area -> local repo. -> remote repo.
+Learn-test ...... ->  git add .... -> git commit. -> git push.
+
+tracked -> git knows some file is added in git repo (in this 2 parameter first working directory and second one is stagging area)
+untracked -> git not know 
+
+changes control
+
+version control 
